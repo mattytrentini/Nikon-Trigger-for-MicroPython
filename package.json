@@ -1,0 +1,8 @@
+{
+  "urls": [
+    ["NikonTrigger.py", "github:sparkfun/Nikon-Trigger-for-MicroPython/NikonTrigger.py"],
+    ["NikonTimedTrigger.py", "github:sparkfun/Nikon-Trigger-for-MicroPython/NikonTimedTrigger.py"]
+  ],
+  "version": "1.0.0",
+  "deps": []
+}
